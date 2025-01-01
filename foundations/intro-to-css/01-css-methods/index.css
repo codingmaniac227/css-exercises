@@ -1,19 +1,19 @@
 div {
-    background: solid red;
-    color: solid white;
+    background: red;
+    color: white;
     font-size: 32px;
     text-align: center;
     font-weight: bold;
 }
 
 p {
-    background: solid green;
-    color: solid white;
+    background: green;
+    color: white;
     font-size: 18px;
 }
 
 button {
-    background: solid orange;
+    background: orange;
     font-size: 18px;
 }
 
